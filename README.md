@@ -1,11 +1,1 @@
-# IPB
-	>
-    Restaurant Reservation and Dining System
-    For the purposes of this process treat the customers and restaurant staff as members of the same organization, model all messages as activities.
-    The reservation process starts when a customer decides to dine at the restaurant and books a table either by calling or via an online reservation system. The customer specifies the desired date, time, and the number of  guests. Once this information is received, the restaurant staff reviews the table availability. If a table is available, the staff confirms the reservation with the customer and the reservation process ends. However, if the desired time slot is fully booked, the restaurant staff will suggest the next available time slot to the customer.
-    If the customer agrees with the suggested timing, the reservation is made and the customer is informed. If the customer disagrees, they are offered to be placed on a waitlist. In the event of a cancellation , the customer on the waitlist will be contacted and offered the newly available time slot. Then it waits a week for the cutomer response, if he is not responsing a new offered time then the attempts to contact are stoped.
-    On the day of the reservation, the customer arrives at the restaurant. The host/hostess leads the guests to their table. A server is assigned to the table, who introduces themselves to the customers, presents the menu, and takes the order. If the order contains items not currently available, the server informs the customer and suggests alternatives.
-    Once the customer has decided, the server communicates the order to the kitchen. After the meals are prepared, the server brings the food to the table and ensures everything is as ordered. During the meal, the server periodically checks on the table for any additional needs or concerns.
-    When the meal is over, the server presents the bill to the customer. The customer can choose to pay via cash, credit card, or mobile payment apps. If a credit card is used, the transaction is processed immediately. If it's declined, the server informs the customer who can then choose another method of payment.
-    After the payment is successful, the server thanks the customer, who then leaves the restaurant. The server prepares the table for the next customer and the process is repeated.
-    At any point, if the customer has complaints or issues, they can speak to the manager who is responsible for resolving any disputes and ensuring customer satisfaction.
+
